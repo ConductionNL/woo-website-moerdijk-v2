@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Contactgegevens",
+      "items": [
+        {
+          "ariaLabel": "Maak een afspraak",
+          "value": "Maak een afspraak",
+          "link": "https://www.moerdijk.nl/Afspraak",
+          "icon": { "prefix": "fas", "icon": "calendar-check", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Meer openingstijden en contactgegevens",
+          "value": "Meer openingstijden en contactgegevens",
+          "link": "https://www.moerdijk.nl/Contact.html",
+          "icon": { "prefix": "far", "icon": "file-lines", "placement": "left" }
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "ariaLabel": "Tips of opmerkingen over deze pagina?",
+          "value": "Tips of opmerkingen over deze pagina?",
+          "link": "https://www.moerdijk.nl/web/Tips_of_opmerkingen_over_deze_pagina.html"
+        },
+        {
+          "ariaLabel": "Toegankelijkheid",
+          "value": "Toegankelijkheid",
+          "link": "https://www.moerdijk.nl/toegankelijkheid"
+        },
+        {
+          "ariaLabel": "Proclaimer / Privacy",
+          "value": "Proclaimer / Privacy",
+          "link": "https://www.moerdijk.nl/Proclaimer-Privacy"
+        },
+        {
+          "ariaLabel": "Responsible disclosure",
+          "value": "Responsible disclosure",
+          "link": "https://www.moerdijk.nl/responsible-disclosure"
+        }
+      ]
+    }
+  ]
